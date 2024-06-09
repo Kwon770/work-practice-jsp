@@ -1,0 +1,12 @@
+Eclipse/configuration/org.eclipse.equinox.simpleconfigurator/bundle~
+
+
+com.genuitec.eclipse.codetogether.ui_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.webicons_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.core_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.ui.client_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.ui.client.tests_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.epl_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.patches_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.cm_2024.2.0.202403260117.jar
+com.genuitec.eclipse.codetogether.api_2024.2.0.202403260117.jar
